@@ -70,6 +70,8 @@ Copyright 2020-2023 © The Backstage Authors. All rights reserved. The Linux Fou
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 
+https://access.redhat.com/documentation/en-us/red_hat_developer_hub/1.0/
+
 ## Security
 
 Please report sensitive security issues using Spotify's [bug-bounty program](https://hackerone.com/spotify) rather than GitHub.
