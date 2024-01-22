@@ -19,5 +19,5 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
 spec:
   type: library
-  owner: maximilianopizarro5-dev  
+  owner: default-dockercfg-24swd  
   lifecycle: experimental
