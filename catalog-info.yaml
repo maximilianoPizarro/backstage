@@ -19,5 +19,5 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
 spec:
   type: library
-  owner: admin  
+  owner: maximilianopizarro5-dev  
   lifecycle: experimental
